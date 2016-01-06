@@ -6,6 +6,7 @@ that output the myhermes csv file format.
 
 No installation required, just: 
 Upload the files to your web server
+Manually add an upload folder to the app folder.. 
 Submit the html format email supplied by myhermes after you ship your item
 and the csv file that you supply to Myhermes to generate shipments
 Click submit and a csv file will be generated. 

@@ -10,7 +10,7 @@ Upload the files to your web server
 
 Manually add an upload folder to the app folder.. 
 
-Submit the html format email supplied by myhermes after you ship your item
+Submit the html format email supplied by myhermes after you ship your item (file, save in most applications or view original source in gmail, copy and save that html source) 
 
 and the csv file that you supply to Myhermes to generate shipments
 
